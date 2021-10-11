@@ -1,2 +1,2 @@
 # person-miniprogram
- miniprogram  with CodeMe and leduo
+ miniprogram  with CodeMe and LeDuo
